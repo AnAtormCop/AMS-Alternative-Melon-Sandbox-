@@ -11,3 +11,5 @@ The apk package is changed, and the whole app is for a backup melon sandbox app!
 
 # Another Read Me
 If the owner of the melon sandbox force me to delete this app. i will.
+
+# Download the apk from the releases
